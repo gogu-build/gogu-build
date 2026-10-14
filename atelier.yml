@@ -1,0 +1,13 @@
+# Readme Atelier: edit this file, commit, and your profile rebuilds itself.
+# Paste the config from the website generator, or edit by hand.
+# Themes: minimal · y2k · minecraft · terminal · pixel · garden
+# Docs: https://github.com/monokernn/readme-atelier#config
+
+username: your-username   # left as-is, the repository owner is used
+theme: y2k
+tagline: ''
+about: []
+stack: []
+socials:
+  github: your-username
+sections: [header, socials, stats, activity, repos, stack, footer]

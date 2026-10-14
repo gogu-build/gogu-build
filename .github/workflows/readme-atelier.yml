@@ -1,0 +1,21 @@
+# Rebuilds your profile README every day and whenever atelier.yml changes.
+name: Readme Atelier
+
+on:
+  push:
+    paths: ['atelier.yml', '.github/workflows/readme-atelier.yml']
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    # never runs inside the template itself, only in your copy
+    if: github.repository != 'monokernn/readme-atelier-template'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: monokernn/readme-atelier@v1
