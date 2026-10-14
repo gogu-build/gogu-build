@@ -4,6 +4,7 @@
 <p align="center"><img src="./atelier/header.svg" width="100%" alt="gogu"/></p>
 
 <p align="center">
+  <a href="https://x.com/gogu&#95;name"><img src="./atelier/social-x.svg" height="36" alt="@gogu&#95;name"/></a>&nbsp;
   <a href="https://github.com/gogu-build"><img src="./atelier/social-github.svg" height="36" alt="gogu-build"/></a>
 </p>
 
