@@ -16,9 +16,9 @@
 <p align="center"><img src="./atelier/activity.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
-  <a href="https://github.com/gogu-build/Rumbeus.github.io"><img src="./atelier/repo-1.svg" width="49%" alt="Rumbeus.github.io"/></a>
-  <a href="https://github.com/gogu-build/gogu-build"><img src="./atelier/repo-2.svg" width="49%" alt="gogu-build"/></a>
-  <a href="https://github.com/gogu-build/agent-lab"><img src="./atelier/repo-3.svg" width="49%" alt="agent-lab"/></a>
+  <a href="https://github.com/gogu-build/gogu-build"><img src="./atelier/repo-1.svg" width="49%" alt="gogu-build"/></a>
+  <a href="https://github.com/gogu-build/agent-lab"><img src="./atelier/repo-2.svg" width="49%" alt="agent-lab"/></a>
+  <a href="https://github.com/gogu-build/Rumbeus.github.io"><img src="./atelier/repo-3.svg" width="49%" alt="Rumbeus.github.io"/></a>
 </p>
 
 <p align="center"><img src="./atelier/footer.svg" width="100%" alt="Footer"/></p>
