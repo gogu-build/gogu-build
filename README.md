@@ -13,7 +13,7 @@
   <img src="./atelier/languages.16571b42.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.282afb64.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.aa0f68ec.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/gogu-build/gogu-build"><img src="./atelier/repo-1.a50b347c.svg" width="49%" alt="gogu-build"/></a>
@@ -21,6 +21,6 @@
   <a href="https://github.com/gogu-build/Rumbeus.github.io"><img src="./atelier/repo-3.a37fd910.svg" width="49%" alt="Rumbeus.github.io"/></a>
 </p>
 
-<p align="center"><img src="./atelier/footer.cf9d850e.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.9e34054a.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
